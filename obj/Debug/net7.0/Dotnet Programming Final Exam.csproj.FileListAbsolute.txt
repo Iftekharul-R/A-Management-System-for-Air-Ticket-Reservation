@@ -1,0 +1,14 @@
+C:\Users\IF\Desktop\Dotnet Programming Final Exam\obj\Debug\net7.0\Dotnet Programming Final Exam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IF\Desktop\Dotnet Programming Final Exam\obj\Debug\net7.0\Dotnet Programming Final Exam.AssemblyInfoInputs.cache
+C:\Users\IF\Desktop\Dotnet Programming Final Exam\obj\Debug\net7.0\Dotnet Programming Final Exam.AssemblyInfo.cs
+C:\Users\IF\Desktop\Dotnet Programming Final Exam\obj\Debug\net7.0\Dotnet Programming Final Exam.csproj.CoreCompileInputs.cache
+C:\Users\IF\Desktop\Dotnet Programming Final Exam\bin\Debug\net7.0\Dotnet Programming Final Exam.exe
+C:\Users\IF\Desktop\Dotnet Programming Final Exam\bin\Debug\net7.0\Dotnet Programming Final Exam.deps.json
+C:\Users\IF\Desktop\Dotnet Programming Final Exam\bin\Debug\net7.0\Dotnet Programming Final Exam.runtimeconfig.json
+C:\Users\IF\Desktop\Dotnet Programming Final Exam\bin\Debug\net7.0\Dotnet Programming Final Exam.dll
+C:\Users\IF\Desktop\Dotnet Programming Final Exam\bin\Debug\net7.0\Dotnet Programming Final Exam.pdb
+C:\Users\IF\Desktop\Dotnet Programming Final Exam\obj\Debug\net7.0\Dotnet Programming Final Exam.dll
+C:\Users\IF\Desktop\Dotnet Programming Final Exam\obj\Debug\net7.0\refint\Dotnet Programming Final Exam.dll
+C:\Users\IF\Desktop\Dotnet Programming Final Exam\obj\Debug\net7.0\Dotnet Programming Final Exam.pdb
+C:\Users\IF\Desktop\Dotnet Programming Final Exam\obj\Debug\net7.0\Dotnet Programming Final Exam.genruntimeconfig.cache
+C:\Users\IF\Desktop\Dotnet Programming Final Exam\obj\Debug\net7.0\ref\Dotnet Programming Final Exam.dll
